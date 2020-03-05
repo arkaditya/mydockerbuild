@@ -1,0 +1,1 @@
+LABEL architecture=x86
